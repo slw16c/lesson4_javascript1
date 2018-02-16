@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 16, 2018
 
 ### Student Name:  
-(First and Last Name)
+Steve Walter
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment was to edit a .js file to add more content. Then edit the .html file to also add more content. We were also tasked to learn some basics about JavaScript.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://slw16c.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. parseFloat() is used to change a string into a float.
+2. getElementById is used to place the result into the HTMl page by its unique id 
+3. toFixed() is use to say how many digits appear after the decimal place.
 
 
 
